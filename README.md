@@ -18,11 +18,11 @@ All presentations were recorded and will be available on the [Stir Trek YouTube 
 
 [Quick tutorial on adding files to GitHub repos you don't own](https://ardalis.com/how-to-add-files-to-a-github-repo-you-dont-own)
 
-Please add your supporting materials for your session in a single file in the "Talks" folder. Ideally with no spaces in the filename.
+Please add your supporting materials for your session in a single file in the "talks" folder. Ideally with no spaces in the filename.
 
 > /Talks/SamNasr-14NewTSQLFunctions.zip
 
-Then update the list with your talk, in alphabetical order if you can.
+Then update the list with your talk folder, in alphabetical order if you can. Feel free to add a README with your contact info, etc. in the folder as well.
 
 Thanks!
 
