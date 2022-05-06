@@ -8,7 +8,7 @@ All presentations were recorded and will be available on the [Stir Trek YouTube 
 
 *Add your sessions here, in alphabetical order by session title*
 
-- [Clean Architecture with ASP.NET 6 - Steve @ardalis Smith](talks/clean-architecture-with-aspnet-6-steve-smith/README.md)
+- [Clean Architecture with ASP.NET 6 - Steve @ardalis Smith](talks/clean-architecture-with-aspnet-6-steve-smith)
 
 ## Stir Trek 2022 Reviews
 
