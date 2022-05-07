@@ -1,0 +1,244 @@
+:root {
+    --bg: rgb(39, 39, 63);
+    --text: #cccccc;
+    --subtle: #cccccc;
+    --card-bg: rgb(81, 81, 112);
+    --card-header: rgb(67, 67, 95);
+    --link: #f9f3f9;
+    --header: #2eb7c4;
+    --accent: #ffc857;
+    --alternate: #cf3acd;
+    --active: #ffc857;
+    --structure: rgb(39, 39, 63);
+    --fa-primary-color: #cf3acd;
+    --fa-secondary-color: #ffc857;
+    --fa-secondary-opacity: 1;
+}
+
+.swap {
+    --fa-primary-color: #ffc857;
+    --fa-secondary-color: #cf3acd;
+    color: #cf3acd;
+}
+
+i.fab {
+    color: var(--fa-secondary-color);
+}
+
+.black {
+    color: #666666 !important;
+}
+
+.red {
+    color: rgb(255, 0, 0) !important;
+}
+
+i.swap {
+    color: var(--fa-secondary-color);
+}
+
+.sz-caption {
+    display: none;
+}
+
+.sz-powered-by {
+    margin-top: 0.5rem;
+    --border-top: 1px solid var(--structure);
+    padding-top: 0.25rem;
+}
+
+.sz-powered-by>a {
+    font-weight: normal;
+    font-size: 75%;
+}
+
+.sz-group__title {
+    margin-top: 1rem;
+}
+
+.sz-group__title:first-child {
+    margin-top: 0;
+}
+
+.featured .card-image img {
+    height: 100%;
+    width: auto;
+}
+
+.featured .card-content {
+    min-height: 85px;
+}
+
+.media, .media-content {
+    overflow-y: hidden;
+}
+
+.featured p.subtitle {
+    color: var(--fa-secondary-color);
+}
+
+html {
+    background-color: var(--bg);
+    padding: 1rem;
+}
+
+html>body {
+    color: var(--text);
+}
+
+h1 {
+    color: var(--accent);
+    font-size: 175%;
+    margin-bottom: 1rem;
+}
+
+h2 {
+    color: var(--header);
+    font-size: 135%;
+    margin-bottom: 0.25em;
+}
+
+section {
+    margin-bottom: 2rem;
+}
+
+ul li {
+    padding-top: 0.5em;
+    padding-bottom: 0.5em;
+}
+
+a {
+    color: var(--link);
+    text-decoration: none;
+    font-weight: bold;
+    text-shadow: 0.05rem 0.05rem #0a0a0a;
+}
+
+li i {
+    margin-right: 0.5rem;
+}
+
+a:visited {
+    color: var(--link);
+}
+
+a:hover {
+    color: var(--active);
+}
+
+.accent {
+    color: var(--accent);
+    font-size: 120%;
+    font-weight: 650;
+}
+
+.card {
+    background-color: var(--card-bg);
+    color: var(--text);
+}
+
+.card .card-header-title {
+    color: var(--header);
+    text-shadow: 0.05rem 0.05rem #0a0a0a;
+}
+
+.card-content {
+    padding-top: 1rem;
+    padding-bottom: 0.25rem;
+}
+
+.card-content small:first-child {
+    display: block;
+    padding-bottom: 1rem;
+    border-bottom: 1px solid var(--structure);
+    margin-bottom: 1rem;
+}
+
+main>header {
+    margin-bottom: 1rem;
+    padding-bottom: 1rem;
+    border-bottom: 1px solid var(--accent);
+}
+
+footer {
+    margin-top: 1rem;
+    border-top: 1px solid var(--accent);
+    padding-top: 1rem;
+    color: var(--subtle);
+    text-align: center;
+    font-size: 80%;
+}
+
+.content-list {
+    gap: 1rem;
+    justify-content: stretch;
+}
+
+.card li small {
+    font-size: 0.75rem;
+    color: var(--subtle);
+}
+
+.content-list>.card {
+    width: 100%;
+}
+
+header.card-header {
+    border-bottom: 1px solid var(--accent);
+    background-color: var(--card-header);
+}
+
+div.hr {
+    border-bottom: 1px solid var(--accent);
+}
+
+header.greeting {
+    display: grid;
+    grid-template-areas: "image" "headline" "social" "blurb";
+}
+
+header.greeting>figure {
+    grid-area: image;
+}
+
+header.greeting>h1 {
+    grid-area: headline;
+}
+
+header.greeting>p {
+    grid-area: blurb;
+}
+header.greeting>nav {
+    grid-area: social;
+    display: flex;
+    margin-top: 0.5rem;
+}
+header.greeting>nav>ul {
+    display: flex;
+}
+header.greeting>nav>ul>li {
+    margin-right: 1.25rem;
+}
+header.greeting>nav>ul>li i {
+    margin-right: 0.15rem;
+}
+
+@media only screen and (min-width: 1000px) {
+    header.greeting {
+        grid-template-areas: "image headline" "image blurb" "image social";
+    }
+    header.greeting>figure {
+        place-self: center;
+    }
+    .content-list {
+        flex-wrap: wrap;
+        align-items: stretch;
+        justify-items: stretch;
+        justify-content: stretch;
+    }
+    .content-list>.card {
+        width: 500px;
+        flex-grow: 1;
+        flex-shrink: 1;
+    }
+}
