@@ -17,7 +17,7 @@ All presentations were recorded and will be available on the [Stir Trek YouTube 
 
 ### Speaker Instructions
 
-[Quick tutorial on adding files to GitHub repos you don't own](https://ardalis.com/how-to-add-files-to-a-github-repo-you-dont-own)
+[Quick tutorial on adding files to GitHub repos you don't own](https://ardalis.com/how-to-add-files-to-a-github-repo-you-don%E2%80%99t-own/)
 
 Please add your supporting materials for your session in a single file in the "talks" folder. Ideally with no spaces in the filename.
 
