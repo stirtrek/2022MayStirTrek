@@ -8,6 +8,7 @@ All presentations were recorded and will be available on the [Stir Trek YouTube 
 
 *Add your sessions here, in alphabetical order by session title*
 
+- [6 (or so) Features of .NET 6](talks/6-or-so-new-features-of-dotnet-6)
 - [Clean Architecture with ASP.NET 6 - Steve @ardalis Smith](talks/clean-architecture-with-aspnet-6-steve-smith)
 
 ## Stir Trek 2022 Reviews
@@ -16,7 +17,7 @@ All presentations were recorded and will be available on the [Stir Trek YouTube 
 
 ### Speaker Instructions
 
-[Quick tutorial on adding files to GitHub repos you don't own](https://ardalis.com/how-to-add-files-to-a-github-repo-you-dont-own)
+[Quick tutorial on adding files to GitHub repos you don't own](https://ardalis.com/how-to-add-files-to-a-github-repo-you-don%E2%80%99t-own/)
 
 Please add your supporting materials for your session in a single file in the "talks" folder. Ideally with no spaces in the filename.
 
