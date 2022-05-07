@@ -9,6 +9,7 @@ All presentations were recorded and will be available on the [Stir Trek YouTube 
 *Add your sessions here, in alphabetical order by session title*
 
 - [6 (or so) Features of .NET 6](talks/6-or-so-new-features-of-dotnet-6)
+- [Building a Graph Based Infrastructure](talks/building-a-graph-based-infrastructure)
 - [Clean Architecture with ASP.NET 6 - Steve @ardalis Smith](talks/clean-architecture-with-aspnet-6-steve-smith)
 - [Stand Back; I'm going to try Data Science! - Matt Eland (@IntegerMan)](https://MattEland.dev/tryds)
 
