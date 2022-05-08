@@ -10,6 +10,7 @@ All presentations were recorded and will be available on the [Stir Trek YouTube 
 
 - [6 (or so) Features of .NET 6](talks/6-or-so-new-features-of-dotnet-6)
 - [Clean Architecture with ASP.NET 6 - Steve @ardalis Smith](talks/clean-architecture-with-aspnet-6-steve-smith)
+- [Gain visibility into your apps with Azure Application Insights[(talks/AzureApplicationInsights)
 - [Stand Back; I'm going to try Data Science! - Matt Eland (@IntegerMan)](https://MattEland.dev/tryds)
 
 ## Stir Trek 2022 Reviews
