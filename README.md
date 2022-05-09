@@ -15,6 +15,7 @@ All presentations were recorded and will be available on the [Stir Trek YouTube 
 - [Gain visibility into your apps with Azure Application Insights](talks/AzureApplicationInsights)
 - [	IoT, JavaScript and Beer Brewing: Cheers to that!](https://ezurl.to/cheers)
 - [Stand Back; I'm going to try Data Science! - Matt Eland (@IntegerMan)](https://MattEland.dev/tryds)
+- [Stop Wasting Your Time on Code Reviews! - Joe Belisle](talks/stop-wasting-your-time-on-code-reviews)
 - [What to Avoid When Writing Unit Tests](talks/what-to-avoid-when-writing-unti-tests.md)
 
 ## Stir Trek 2022 Reviews
