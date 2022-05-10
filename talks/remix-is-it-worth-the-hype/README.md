@@ -10,6 +10,8 @@ You can find the source for my demo application here:
 Some excellent resources to learn more about Remix
 [More Resources](./learn-more.md)
 
+## What did you like or dislike?
+
 I would love to hear your feedback. Feel free to drop me a message!
 
 Michael Richardson
