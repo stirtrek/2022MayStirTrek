@@ -17,6 +17,6 @@ Some excellent resources to learn more about Remix
 I would love to hear your feedback. Feel free to drop me a message!
 
 Michael Richardson
-[Twitter](https://twitter.com/AnAccidentalDev/)
-[LinkedIn](https://www.linkedin.com/in/accidentaldeveloper/)
-[Email](remix@michaelrichardson.dev)
+- [Twitter](https://twitter.com/AnAccidentalDev/)
+- [LinkedIn](https://www.linkedin.com/in/accidentaldeveloper/)
+- [Email](remix@michaelrichardson.dev)
