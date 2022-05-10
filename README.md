@@ -14,6 +14,7 @@ All presentations were recorded and will be available on the [Stir Trek YouTube 
 - [Clean Architecture with ASP.NET 6 - Steve @ardalis Smith](talks/clean-architecture-with-aspnet-6-steve-smith)
 - [Gain visibility into your apps with Azure Application Insights](talks/AzureApplicationInsights)
 - [	IoT, JavaScript and Beer Brewing: Cheers to that!](https://ezurl.to/cheers)
+- [	Remix: Is it worth the hype? ](./talks/remix-is-it-worth-the-hype/)
 - [Stand Back; I'm going to try Data Science! - Matt Eland (@IntegerMan)](https://MattEland.dev/tryds)
 - [What to Avoid When Writing Unit Tests](talks/what-to-avoid-when-writing-unti-tests.md)
 
