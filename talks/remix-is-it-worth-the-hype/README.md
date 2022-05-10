@@ -3,11 +3,13 @@
 Thank you for your interest in Remix!
 
 ## Demo Application
-You can find the source for my demo application here:
+You can find the source code for my demo application here:
+
 [Kroger Guru](https://github.com/accidentaldeveloper/kroger-guru)
 
 ## Learn More
 Some excellent resources to learn more about Remix
+
 [More Resources](./learn-more.md)
 
 ## What did you like or dislike?
