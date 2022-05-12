@@ -12,6 +12,8 @@ All presentations were recorded and will be available on the [Stir Trek YouTube 
 - [Automating Your Smarthome Without the Cloud - Seth Petry-Johnson (@spetryjohnson)](talks/automating-your-smarthome-without-the-cloud)
 - [Building a Graph Based Infrastructure](talks/building-a-graph-based-infrastructure)
 - [Clean Architecture with ASP.NET 6 - Steve @ardalis Smith](talks/clean-architecture-with-aspnet-6-steve-smith)
+- [Don’t Build a Distributed Monolith: How to Avoid Doing Microservices Completely Wrong -
+Jonathan "J." Tower](talks/dont-build-a-distributed-monolith)
 - [Gain visibility into your apps with Azure Application Insights](talks/AzureApplicationInsights)
 - [	IoT, JavaScript and Beer Brewing: Cheers to that!](https://ezurl.to/cheers)
 - [	Remix: Is it worth the hype? ](./talks/remix-is-it-worth-the-hype/)
