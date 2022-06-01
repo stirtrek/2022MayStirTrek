@@ -23,6 +23,8 @@ Jonathan "J." Tower](talks/dont-build-a-distributed-monolith)
 
 ## Stir Trek 2022 Reviews
 
+- [Stir Trek 2022](https://ilyana.dev/blog/2022-05-16-stir-trek-2022/)
+
 *Write a review and add a link to it here.*
 
 ### Speaker Instructions
