@@ -16,6 +16,7 @@ All presentations were recorded and will be available on the [Stir Trek YouTube 
 Jonathan "J." Tower](talks/dont-build-a-distributed-monolith)
 - [Gain visibility into your apps with Azure Application Insights](talks/AzureApplicationInsights)
 - [	IoT, JavaScript and Beer Brewing: Cheers to that!](https://ezurl.to/cheers)
+- [Jason On Json](talks/jason-on-json.md)
 - [	Remix: Is it worth the hype? ](./talks/remix-is-it-worth-the-hype/)
 - [Stand Back; I'm going to try Data Science! - Matt Eland (@IntegerMan)](https://MattEland.dev/tryds)
 - [Stop Wasting Your Time on Code Reviews! - Joe Belisle](talks/stop-wasting-your-time-on-code-reviews)
