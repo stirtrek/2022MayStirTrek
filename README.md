@@ -20,7 +20,7 @@ Jonathan "J." Tower](talks/dont-build-a-distributed-monolith)
 - [	Remix: Is it worth the hype? ](./talks/remix-is-it-worth-the-hype/)
 - [Stand Back; I'm going to try Data Science! - Matt Eland (@IntegerMan)](https://MattEland.dev/tryds)
 - [Stop Wasting Your Time on Code Reviews! - Joe Belisle](talks/stop-wasting-your-time-on-code-reviews)
-- [What to Avoid When Writing Unit Tests](talks/what-to-avoid-when-writing-unti-tests.md)
+- [What to Avoid When Writing Unit Tests](talks/what-to-avoid-when-writing-unit-tests.md)
 
 ## Stir Trek 2022 Reviews
 
